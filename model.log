@@ -1,0 +1,345 @@
+2024-09-28 11:57:50,762 - INFO - Initializing FinancialForecastModel
+2024-09-28 11:57:54,331 - INFO - Model and tokenizer loaded successfully
+2024-09-28 11:57:54,331 - INFO - Making prediction for input: The stock market will
+2024-09-28 11:58:03,374 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:01:35,457 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:01:38,799 - INFO - Model and tokenizer loaded successfully
+2024-09-28 12:01:38,799 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:01:39,117 - ERROR - Error during fine-tuning: CSV must contain a 'text' column
+2024-09-28 12:01:39,118 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:01:45,769 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:04:34,692 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:04:38,283 - INFO - Model and tokenizer loaded successfully
+2024-09-28 12:04:38,283 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:04:38,500 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:04:40,825 - INFO - Training data created successfully
+2024-09-28 12:04:40,826 - ERROR - Error during fine-tuning: Asking to pad but the tokenizer does not have a padding token. Please select a token to use as `pad_token` `(tokenizer.pad_token = tokenizer.eos_token e.g.)` or add a new pad token via `tokenizer.add_special_tokens({'pad_token': '[PAD]'})`.
+2024-09-28 12:04:40,833 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:04:45,825 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:05:52,741 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:05:55,126 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:05:55,126 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:05:55,291 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:05:57,297 - INFO - Training data created successfully
+2024-09-28 12:06:11,264 - INFO - Fine-tuning completed
+2024-09-28 12:06:11,276 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:06:13,878 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:09:13,897 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:09:17,074 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:09:17,074 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:09:17,308 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:09:19,435 - INFO - Training data created successfully
+2024-09-28 12:09:34,399 - INFO - Fine-tuning completed
+2024-09-28 12:09:34,417 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:09:42,717 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:11:03,056 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:11:05,922 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:11:05,922 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:11:06,167 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:11:08,141 - INFO - Training data created successfully
+2024-09-28 12:11:21,809 - INFO - Fine-tuning completed
+2024-09-28 12:11:21,821 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:11:24,710 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:13:25,748 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:13:28,337 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:13:28,338 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:13:28,473 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:13:30,489 - INFO - Training data created successfully
+2024-09-28 12:13:44,317 - INFO - Fine-tuning completed
+2024-09-28 12:13:44,328 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:13:48,674 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:13:51,874 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:17:36,367 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:17:39,729 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:17:48,318 - INFO - Model loaded successfully from D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:17:50,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-28 12:17:50,023 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-28 12:17:50,031 - INFO -  * Restarting with stat
+2024-09-28 12:18:07,401 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:18:10,104 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:18:23,830 - INFO - Model loaded successfully from D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:18:24,057 - WARNING -  * Debugger is active!
+2024-09-28 12:18:24,091 - INFO -  * Debugger PIN: 160-768-741
+2024-09-28 12:19:59,194 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:20:08,612 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:20:08,634 - INFO - 127.0.0.1 - - [28/Sep/2024 12:20:08] "POST /predict HTTP/1.1" 200 -
+2024-09-28 12:22:28,816 - INFO -  * Detected change in 'D:\\Generative AI-Powered Financial Forecasting\\src\\model.py', reloading
+2024-09-28 12:22:32,918 - INFO -  * Restarting with stat
+2024-09-28 12:23:01,867 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:23:05,360 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:23:17,046 - INFO - Model loaded successfully from D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:23:17,390 - WARNING -  * Debugger is active!
+2024-09-28 12:23:17,450 - INFO -  * Debugger PIN: 160-768-741
+2024-09-28 12:23:19,515 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:23:28,415 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:23:28,790 - INFO - 127.0.0.1 - - [28/Sep/2024 12:23:28] "POST /predict HTTP/1.1" 200 -
+2024-09-28 12:25:42,386 - INFO -  * Detected change in 'D:\\Generative AI-Powered Financial Forecasting\\src\\model.py', reloading
+2024-09-28 12:25:47,189 - INFO -  * Restarting with stat
+2024-09-28 12:26:16,530 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:26:19,922 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:26:31,637 - INFO - Model loaded successfully from D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:26:32,651 - WARNING -  * Debugger is active!
+2024-09-28 12:26:32,680 - INFO -  * Debugger PIN: 160-768-741
+2024-09-28 12:26:34,222 - INFO - Making prediction for input: The stock market will
+2024-09-28 12:26:43,825 - INFO - Prediction successful: The stock market will be in a state of flux, and the market will be in a state of flux.
+
+The stock market will be in a state of flux, and the market will be in a state of flux. The stock market will
+2024-09-28 12:26:43,840 - INFO - 127.0.0.1 - - [28/Sep/2024 12:26:43] "POST /predict HTTP/1.1" 200 -
+2024-09-28 12:27:51,943 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:27:54,710 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:27:54,710 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:27:54,799 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:27:57,814 - INFO - Training data created successfully
+2024-09-28 12:28:19,220 - INFO - Fine-tuning completed
+2024-09-28 12:28:19,237 - INFO - Making prediction for input: Given the recent rise in inflation and interest rates, the stock market will
+2024-09-28 12:28:23,867 - INFO - Prediction successful: Given the recent rise in inflation and interest rates, the stock market will likely continue to rise.
+
+The stock market is expected to rise by about 1.5% in 2017, according to the Bureau of Labor Statistics.
+
+The stock market
+2024-09-28 12:28:27,958 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:31:54,789 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:31:58,019 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:31:58,019 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:31:58,196 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:32:01,603 - INFO - Training data created successfully
+2024-09-28 12:32:24,562 - INFO - Fine-tuning completed
+2024-09-28 12:32:24,586 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, the stock market will likely
+2024-09-28 12:32:31,507 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, the stock market will likely be downgraded in 2024. Indeed, the current financial crisis is already affecting the US economy, affecting the stock market.
+
+As discussed above, as the US
+2024-09-28 12:32:35,712 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:34:29,475 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:34:32,646 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:34:32,646 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:34:32,801 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:34:36,604 - INFO - Training data created successfully
+2024-09-28 12:35:05,666 - INFO - Fine-tuning completed
+2024-09-28 12:35:05,686 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 12:35:10,540 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty. However, there is no reason to predict that the stock market will be competitive in
+2024-09-28 12:35:14,218 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:37:05,483 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:37:09,080 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:37:09,080 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed.csv
+2024-09-28 12:37:09,250 - INFO - Columns in the CSV: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+2024-09-28 12:37:13,538 - INFO - Training data created successfully
+2024-09-28 12:37:37,631 - INFO - Fine-tuning completed
+2024-09-28 12:37:37,647 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 12:37:44,639 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+Inflationary pressure may also make changes in how investments are made,
+2024-09-28 12:37:48,588 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 12:46:51,910 - INFO - Initializing FinancialForecastModel
+2024-09-28 12:46:55,372 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 12:46:55,372 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed_synthetic_financial_data_until_2024_09_30
+2024-09-28 12:46:55,373 - ERROR - Error during fine-tuning: [Errno 2] No such file or directory: 'D:/Generative AI-Powered Financial Forecasting/data/financial_data_processed_synthetic_financial_data_until_2024_09_30'
+2024-09-28 12:46:55,374 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 12:47:03,583 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+Although the rate of inflation is expected to fall to 2% in 2020
+2024-09-28 12:47:07,232 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 14:16:06,440 - INFO - Initializing FinancialForecastModel
+2024-09-28 14:16:10,200 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 14:16:10,201 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 14:16:10,345 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 14:16:10,387 - ERROR - Error during fine-tuning: CSV must contain a 'Date' column
+2024-09-28 14:16:10,388 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 14:16:18,149 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+As the central bank seeks to prevent inflation from plunging and the value
+2024-09-28 14:16:22,574 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 14:18:36,289 - INFO - Initializing FinancialForecastModel
+2024-09-28 14:18:39,560 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 14:18:39,560 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 14:18:39,672 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 14:18:39,728 - INFO - Training data created successfully
+2024-09-28 14:18:39,882 - INFO - Fine-tuning completed
+2024-09-28 14:18:39,896 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 14:18:43,412 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+"The question now is whether the Fed will be able to continue to
+2024-09-28 14:18:46,939 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 14:21:34,625 - INFO - Initializing FinancialForecastModel
+2024-09-28 14:21:38,010 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 14:21:38,011 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 14:21:38,078 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 14:21:38,159 - INFO - Training data created successfully
+2024-09-28 14:21:38,324 - INFO - Fine-tuning completed
+2024-09-28 14:21:38,324 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 14:23:26,762 - ERROR - Error during prediction: index out of range in self
+2024-09-28 14:23:30,946 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 14:28:34,407 - INFO - Initializing FinancialForecastModel
+2024-09-28 14:28:37,753 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 14:28:37,753 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 14:28:37,807 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 14:28:37,894 - INFO - Training data created successfully
+2024-09-28 14:28:38,058 - INFO - Fine-tuning completed
+2024-09-28 14:28:38,059 - ERROR - Error during prediction: Incorrect path_or_model_id: 'D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2024-09-28 14:28:42,795 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:05:46,641 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:05:50,026 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:05:50,026 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:05:50,251 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:05:50,331 - INFO - Training data created successfully
+2024-09-28 16:05:50,488 - INFO - Fine-tuning completed
+2024-09-28 16:05:50,508 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 16:06:09,155 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+The average U.S. real estate price will likely rise by a combined $5.15 (1.55-1.77%), up from $4.59 (1.64-1.98%) in 2014 and $5.06 in 2014, according to market research firm FactSet. That would be an increase of over 1% from the previous year, according to the most recent data.
+
+The United States, which is expected to see a 1 percent increase in GDP as its economic conditions worsen, could experience the greatest growth-related declines in house prices.
+
+That would be a huge number for one of the world's biggest economies. China is one of the five world's fastest growing economies, and has seen a decline in the share of its population over the past decade. The country
+2024-09-28 16:06:13,458 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:06:19,288 - INFO - Model loaded successfully from D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:11:07,206 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:11:10,529 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:11:10,529 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:11:10,656 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:11:10,784 - INFO - Training data created successfully
+2024-09-28 16:11:11,066 - INFO - Fine-tuning completed
+2024-09-28 16:11:11,069 - ERROR - Error during prediction: Incorrect path_or_model_id: 'D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2024-09-28 16:13:38,759 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:13:44,536 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:13:44,536 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:13:44,660 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:13:44,745 - INFO - Training data created successfully
+2024-09-28 16:13:44,886 - INFO - Fine-tuning completed
+2024-09-28 16:13:44,888 - ERROR - Error during prediction: Incorrect path_or_model_id: 'D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2024-09-28 16:19:54,334 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:20:06,105 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:20:06,109 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:20:06,330 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:20:06,636 - INFO - Training data created successfully
+2024-09-28 16:20:06,979 - INFO - Fine-tuning completed
+2024-09-28 16:20:06,991 - ERROR - Error during prediction: Incorrect path_or_model_id: 'D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2024-09-28 16:20:11,219 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:21:01,836 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:21:10,979 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:21:10,983 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:21:11,158 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:21:11,308 - INFO - Training data created successfully
+2024-09-28 16:21:11,615 - INFO - Fine-tuning completed
+2024-09-28 16:21:13,261 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 16:21:18,223 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+To learn more, please visit the Stock Market Index, which has a useful index for stock trading.
+2024-09-28 16:21:21,752 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:22:10,389 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:22:17,296 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:22:17,297 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:22:17,676 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:22:17,750 - INFO - Training data created successfully
+2024-09-28 16:22:17,940 - INFO - Fine-tuning completed
+2024-09-28 16:22:18,596 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 16:22:23,509 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+For more information about the market, including the key factors for predicting economic growth, visit: http://www.cavitas.com.
+
+Read the full Market Forecast at www.marketforecast.com.
+2024-09-28 16:22:27,051 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:24:14,912 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:24:31,653 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:24:31,660 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:24:31,933 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:24:32,055 - INFO - Training data created successfully
+2024-09-28 16:24:32,344 - INFO - Fine-tuning completed
+2024-09-28 16:24:33,498 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 16:24:40,545 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+
+The report also notes that the U.S. economy is now slowing and will continue to experience moderate and strong performance in the near term.
+
+On June 15, the New York Stock Exchange posted a 5% gain for the year.
+
+For more on the 2016 stock market, check out Money.
+2024-09-28 16:24:44,750 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:26:55,032 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:27:03,440 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:27:03,440 - INFO - Loading training data from D:/Generative AI-Powered Financial Forecasting/data/processed_real_world_inflation_data.csv
+2024-09-28 16:27:03,555 - INFO - Columns in the CSV: ['DATE', 'CPIAUCNS']
+2024-09-28 16:27:03,625 - INFO - Training data created successfully
+2024-09-28 16:27:03,940 - INFO - Fine-tuning completed
+2024-09-28 16:27:04,555 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 16:27:27,425 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty. There are also potential risks of a sharp rise in energy prices and the potential for inflationary pressures resulting from increased costs in the energy sector. However, since most consumers do not consider the potential of rising energy prices to be much of a concern, a higher share price will not necessarily lead to an increase in volatility.
+
+The following tables describe some of the possible impacts of the following policies on the stock market in 2025.
+
+As noted above, the stock market could face higher volatility in the long run due to the uncertainty associated with energy prices. However, if energy prices are not a concern, the long-run trends in the long-run will likely remain relatively stable.
+
+The following table describes the stock market as a whole and is not to be used to predict the future, but for informational purposes only.
+
+Sources:
+
+The FOMC, Energy, Stock Market, and Stock Market Forecast, FOMC, FOMC.com.
+
+The Economist, FOMC.com.
+
+MarketWatch, FOMC.com.
+
+Economist, FOMC.com.
+2024-09-28 16:27:31,474 - INFO - Model saved successfully to D:/Generative AI-Powered Financial Forecasting/data/financial_forecast_model.pt
+2024-09-28 16:38:56,614 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:39:14,795 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:39:15,010 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-28 16:39:15,010 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-28 16:39:15,015 - INFO -  * Restarting with stat
+2024-09-28 16:39:31,613 - INFO - Initializing FinancialForecastModel
+2024-09-28 16:39:47,022 - INFO - Model and tokenizer loaded successfully with padding token set
+2024-09-28 16:39:47,147 - WARNING -  * Debugger is active!
+2024-09-28 16:39:47,201 - INFO -  * Debugger PIN: 160-768-741
+2024-09-28 16:39:49,488 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 16:39:59,211 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty. It will also be difficult to forecast the long-term trend in inflation and interest rates. On the other hand, if the global monetary and financial markets did not return to normal within a year, some of the risk could be eliminated.
+2024-09-28 16:39:59,231 - INFO - 127.0.0.1 - - [28/Sep/2024 16:39:59] "POST /predict HTTP/1.1" 200 -
+2024-09-28 16:40:14,834 - INFO - Making prediction for input: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty.
+2024-09-28 16:42:08,477 - INFO - Prediction successful: Considering the recent trends in inflation and interest rates in 2024, alongside rising consumer prices, the stock market will likely face increased volatility and potential downgrades due to economic uncertainty. These risks and uncertainties could be compounded by a combination of higher inflation, lower interest rates, higher stock prices, an increase in the number of public sector jobs and the continued availability of foreign currency in international financial markets.
+
+A key factor that could play an important role in future growth in the global stock market is volatility. The risk of a currency's falling value could have an impact on equity prices in a stock market, particularly given volatility on all three major currencies.
+
+The risks and uncertainties associated with the current level of inflation and interest rates could result in a stock market that is likely to experience high volatility, but which could also have some downside risks. The recent inflation and interest rates in the U.S. are likely to be lower than current levels. As market conditions deteriorate, additional factors could cause a stock market downturn, leading to higher economic activity.
+
+The long-term growth outlook for stock markets could also be affected by the current level of inflation and interest rates. The current level of inflation and interest rates in the U.S. are projected to continue to rise in the future and could lead to a decrease in the value of the U.S. dollar, which could adversely impact stock prices. Interest rates could be higher than today's, and this may negatively impact stock prices as a consequence of lower U.S. dollar demand for U.S. currency. Stock markets could suffer if prices continue to increase on an upward trajectory that is not suitable for the U.S. economy, leading to a downturn in the overall economy and increased financial instability. If prices continue to increase on an upward trajectory that is unsuitable for the U.S. economy, it could cause price volatility to rise.
+
+B. The Long-Term Growth
+
+There is evidence that the long-term growth outlook for stocks is far more favorable than the current level of inflation and interest rates. This suggests that long-term investment in stocks is likely to be less expensive than capital expenditures in a capital market. A higher number of stocks are likely to be on the rise compared with an earlier period, which could lead to higher prices.
+
+On the other hand, there is some evidence that the long-term growth outlook for stocks is far less favorable than the current level of inflation and interest rates. This suggests that long-term investment in stocks is likely to be less expensive than capital expenditures in a capital market.
+
+The longer-term growth outlook for stock markets is not a straight line for stocks in the United States. In fact, the number of stocks in the United States that are likely to exceed historical rates in the coming decade may be far higher than the number of stocks that are expected to exceed their historical norms, with stocks growing longer on average than they do on average.
+
+The long-term growth outlook for stock markets is a straight line that depends on factors including factors such as changes in the business environment in the U.S., as well as changing prices and the economy. The U.S. economy is expected to grow by 2.3 percent in the next decade, and growth in the U.S. stocks may be even higher by 2030 than in the past (for a comprehensive list of recent growth indicators, see the following charts). This is due in large part to the continued strength and robustness of the U.S. economy, which is also projected to expand at an annual rate of more than 3 percent between 2025 and 2030.
+
+Conclusion
+
+There is strong evidence that the long-term growth outlook for stocks is far more favorable than the current level of inflation and interest rates. However, there is also evidence that investors will experience greater volatility due to the current level of inflation and interest rates. Investors will likely perceive greater volatility when the number of stocks grows.
+
+These factors combined are making longer-term growth possible, which could potentially have a major impact on equity prices.
+
+A more general view of investor sentiment, including the timing of market movements and long-term performance, can help investors understand the current level of inflation and interest rates.
+
+The U.S. stock market and a related international economic environment could, in turn, impact financial stability and economic growth. The timing of the U.S. stock market volatility and long-term growth could increase volatility and a potential downgrading of the stock market for investors.
+
+Stock market volatility is not expected to change significantly for many years. However, if the current level of inflation and interest rates increases, the impact on equity prices could increase.
+
+The longer-term growth outlook for stock markets is a straight line that depends on factors including factors such as changes in the business environment in the U.S., as well as changes in prices and the economy. The U.S. economy is expected to grow by 2.3 percent in the next decade, and growth
+2024-09-28 16:42:08,566 - INFO - 127.0.0.1 - - [28/Sep/2024 16:42:08] "POST /predict HTTP/1.1" 200 -

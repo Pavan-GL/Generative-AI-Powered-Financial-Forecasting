@@ -1,0 +1,4 @@
+venv/
+data/financial_forecast_model/model.safetensors
+data/financial_forecast_model.pt
+
